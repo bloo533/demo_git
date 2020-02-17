@@ -1,2 +1,2 @@
 # demo_git
-tuto git
+Openclassroom : Creation de mon premier repo Git sur GitHub.
